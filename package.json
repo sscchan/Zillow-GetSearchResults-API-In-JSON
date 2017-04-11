@@ -1,0 +1,18 @@
+{
+  "name": "zillowinjson",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2",
+    "request": "^2.81.0",
+    "throttled-request": "^0.1.1",
+    "xml2js": "^0.4.17"
+  }
+}
